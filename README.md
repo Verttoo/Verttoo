@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Bem-vindo ao meu Perfil do GitHub 👋</h1>
 
-<!--
-**Verttoo/Verttoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Olá, eu sou o Everton da Silva Tracz! 🚀</h2>
 
-Here are some ideas to get you started:
+## Sobre Mim
+- 🎓 Cursando Engenharia de Computação pelo Centro Universitario de Tecnologia de Curitiba - UNIFATEC.
+- 🖥️ Atualmente trabalho como Tecnico de Sistema de RH na empresa GESTAMP.
+- 💻 Possuo conhecimentos nos sitemas SAP HCM e Ronda Senior, conhecimento nas linguagens python e HTML e desenvolvimento de dashboards e tratamento de bases utulizando Power BI.
+- 🚀 Estou sempre em busca de desafios que me permitam aplicar e expandir meus conhecimentos.
+- 🔍 Linguagens que estou aprendendo:
+- - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  - ![HTML](https://img.shields.io/badge/html-3670A0?style=for-the-badge&logo=html&logoColor=ffdd54)
+  - ![CSS](https://img.shields.io/badge/css-3670A0?style=for-the-badge&logo=css&logoColor=ffdd54)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Contato
+- Email: everton_tracz@hotmail.com
