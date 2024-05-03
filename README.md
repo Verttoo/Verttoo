@@ -8,8 +8,8 @@
 - 💻 Possuo conhecimentos nos sitemas SAP HCM e Ronda Senior, conhecimento nas linguagens python e HTML e desenvolvimento de dashboards e tratamento de bases utulizando Power BI.
 - 🔍 Linguagens que estou aprendendo:
 - - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  - ![HTML](https://img.shields.io/badge/html-3670A0?style=for-the-badge&logo=html&logoColor=ffdd54)
-  - ![CSS](https://img.shields.io/badge/css-3670A0?style=for-the-badge&logo=css&logoColor=ffdd54)
+  - ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+  - ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
   ## Contato
 - Email: everton_tracz@hotmail.com
