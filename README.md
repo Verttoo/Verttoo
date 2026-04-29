@@ -1,5 +1,3 @@
-<img width="1280" height="992" alt="image" src="https://github.com/user-attachments/assets/c280e219-f401-409a-bd4e-95f84b60acc0" /><h1 align="center">Bem-vindo ao meu Perfil do GitHub 👋</h1>
-
 <h2 align="center">Olá, eu sou o Everton da Silva Tracz! 🚀</h2>
 
 ## Sobre Mim
